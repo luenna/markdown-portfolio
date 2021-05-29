@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hallihallo. Das ist ein Bild von Tweaky, dem coolsten Otter out there.](https://www.fit-for-travel.de/media/3358/istock-1167581652_tommyix.jpg?anchor=center&mode=crop&width=200&height=150&rnd=132541781520000000) 
